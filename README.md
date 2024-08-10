@@ -18,3 +18,8 @@
   - [B - Coins](./ABC087/B_Coins.py)
 - [ABC088](./ABC088/)
   - [B - Card Game for Two](./ABC088/B_Card-Game-for-Two.py)
+
+## 競プロ典型90問
+- [001 - Yokan Party](./競プロ典型/001_Yokan-Party.py)
+- [002 - Encyclopedia of Parentheses](./競プロ典型/002_Encyclopedia-of-Parentheses.py)
+- [003 - Longest Circular Road](./競プロ典型/003_Longest-Circular-Road.py)
