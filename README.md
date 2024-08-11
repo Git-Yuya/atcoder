@@ -18,6 +18,10 @@
   - [B - Coins](./ABC087/B_Coins.py)
 - [ABC088](./ABC088/)
   - [B - Card Game for Two](./ABC088/B_Card-Game-for-Two.py)
+- [ABC366](./ABC366/)
+  - [A - Election 2](./ABC366/A_Election-2.py)
+  - [B - Vertical Writing](./ABC366/B_Vertical-Writing.py)
+  - [C - Balls and Bag Query](./ABC366/C_Balls-and-Bag-Query.py)
 
 ## 競プロ典型90問
 - [001 - Yokan Party](./競プロ典型/001_Yokan-Party.py)
