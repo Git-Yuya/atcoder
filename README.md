@@ -27,3 +27,4 @@
 - [001 - Yokan Party](./競プロ典型/001_Yokan-Party.py)
 - [002 - Encyclopedia of Parentheses](./競プロ典型/002_Encyclopedia-of-Parentheses.py)
 - [003 - Longest Circular Road](./競プロ典型/003_Longest-Circular-Road.py)
+- [004 - Cross Sum](./競プロ典型/004_Cross-Sum.py)
