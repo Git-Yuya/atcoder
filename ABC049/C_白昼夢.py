@@ -1,8 +1,6 @@
-# 入力
 S = input()
-
-# 空文字のT
 T = ""
+
 # 文字列Sのインデックス
 index = 0
 
@@ -26,25 +24,17 @@ while index < len(S):
         else:
             T += "erase"
             index += 5
-    
+
     else:
         break
-    
-# 出力
+
 print("YES" if S == T else "NO")
 
 
+# ========== 別解 ==========
+S = input()
 
+# 文字列Sの部分文字列を順番に気を付け空文字に置換
+S = S.replace("eraser", "").replace("erase", "").replace("dreamer", "").replace("dream", "")
 
-##### 別解 #####
-# # 入力
-# S = input()
-
-# # 文字列Sの部分文字列を順番に気を付け空文字に置換
-# S = S.replace("eraser", "").replace("erase", "").replace("dreamer", "").replace("dream", "")
-
-# # 出力
-# if s:
-#     print("NO")
-# else:
-#     print("YES")
+print("YES" if S == "" else "NO")
