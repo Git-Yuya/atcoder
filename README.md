@@ -22,6 +22,10 @@
   - [A - Election 2](./ABC366/A_Election-2.py)
   - [B - Vertical Writing](./ABC366/B_Vertical-Writing.py)
   - [C - Balls and Bag Query](./ABC366/C_Balls-and-Bag-Query.py)
+- [ABC414](./ABC414/)
+  - [A - Streamer Takahashi](./ABC414/A_Streamer-Takahashi.py)
+  - [B - String Too Long](./ABC414/B_String-Too-Long.py)
+  - [C - Palindromic in Both Bases](./ABC414/C_Palindromic-in-Both-Bases.py)
 
 ## 競プロ典型90問
 - [001 - Yokan Party](./競プロ典型/001_Yokan-Party.py)
