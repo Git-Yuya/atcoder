@@ -124,3 +124,7 @@
   - [A - A Substring](./ABC417/A_A-Substring.py)
   - [B - Search and Delete](./ABC417/B_Search-and-Delete.py)
   - [C - Distance Indicators](./ABC417/C_Distance-Indicators.py)
+- [ABC418](./ABC418/)
+  - [A - I'm a teapot](./ABC418/A_I'm-a-teapot.py)
+  - [B - You're a teapot](./ABC418/B_You're-a-teapot.py)
+  - [C - Flush](./ABC418/C_Flush.py)
